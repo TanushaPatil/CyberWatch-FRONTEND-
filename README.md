@@ -1,6 +1,7 @@
 # 🛡️ CYBERWATCH — Global Cybercrime Intelligence Dashboard
 
 LIVE DEMO:https://cyberwatch-l2m4.onrender.com
+FRONTEND ONLY
 
 CyberWatch is a modern, responsive, military-grade cyber threat intelligence and SOC (Security Operations Center) frontend platform. It provides real-time geospatial incident mapping, hierarchical location drill-down, threat categorization, 03 October 2026 daily intelligence briefings, and trend analytics.
 
