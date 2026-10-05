@@ -128,8 +128,7 @@ export async function fetchIncidentsFromApi(params) {
 
 ## 🚀 Running the Project
 
-```bash
-cd C:\Users\Tanusha\.gemini\antigravity\scratch\cyberwatch
+
 npm run dev
 ```
 
